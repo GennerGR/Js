@@ -1,0 +1,22 @@
+isomorfismo = unico lenguaje capaz de ejecutarse en las 3 capas de una aplicacion.
+
+snake_case / archivos
+UPPER_CASE / Constantes
+UpperCamelCase / Clases
+lowerCamelCase / Objetos Primitivos funciones Instancias
+
+
+Extensiones 
+.liveserver
+.prettier
+.eslint
+.gitlens
+.fluent icons
+.neon dark theme
+.material icon theme
+
+
+instalar de forma global nodemon y sus dependencias 
+
+npm install -g nodemon
+npm install --
