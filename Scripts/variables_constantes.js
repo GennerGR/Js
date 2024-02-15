@@ -8,7 +8,7 @@ let resultado = num1 + num2;
 
 console.log(a + ' la suma de ' + num1 + ' + ' + num2 + ' es igual a ' + resultado);
 
-const PI = 3.1416;
+const PI = 3.1416;      //No cambia su valor en el flujo del programa
 
 let objeto = {
     marca: 'honda',
