@@ -21,7 +21,7 @@ console.log(
     );          
 
 
-//Template Strings:
+//Template Strings: habilitan el uso de expresiones incrustadas
 
 let nombre = 'Ari'
 let pregunta = 'como estas?'
@@ -33,3 +33,4 @@ console.log(saludo);
 let saludo2 = `Hola, mi nombre es ${nombre}, ${pregunta}`;      //Interpolacion
 
 console.log(saludo2);
+
